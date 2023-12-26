@@ -11,8 +11,8 @@ hobbies: traveling, Learning Languages, Blogging
 
 ## 📫 How to reach me: 
 * Mail: tarqymuhammadal@gmail.com
-* Telegram: https://t.me/theal1eev</p>
-* Linkedin: [https://t.me/theal1eev](https://www.linkedin.com/in/salohiddin-tojiyev-b62a22276/)</p>
+* Telegram: https://t.me/theal1eev
+* Linkedin: [https://t.me/theal1eev](https://www.linkedin.com/in/salohiddin-tojiyev-b62a22276/)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
