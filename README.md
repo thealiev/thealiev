@@ -9,8 +9,10 @@ currently_learning: Back-end Development
 hobbies: traveling, Learning Languages, Blogging
 ```
 
-- 📫 How to reach me: <p align="left"> tarqymuhammadal@gmail.com</p>
-                      <p align="left"> https://t.me/theal1eev</p>
+## 📫 How to reach me: 
+* Mail: tarqymuhammadal@gmail.com
+* Telegram: https://t.me/theal1eev</p>
+* Linkedin: [https://t.me/theal1eev](https://www.linkedin.com/in/salohiddin-tojiyev-b62a22276/)</p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
