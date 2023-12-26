@@ -1,7 +1,7 @@
 
 <p align="left"></p>
 
-- 📫 How to reach me <p align="left">**tarqymuhammadal@gmail.com</p>
+- 📫 How to reach me <p align="left">tarqymuhammadal@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
