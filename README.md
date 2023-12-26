@@ -9,7 +9,7 @@ currently_learning: Back-end Development
 hobbies: traveling, Learning Languages, Blogging
 ```
 
-- 📫 How to reach me <p align="left"> tarqymuhammadal@gmail.com</p>
+- 📫 How to reach me: <p align="left"> tarqymuhammadal@gmail.com</p>
                       <p align="left"> https://t.me/theal1eev</p>
 
 <h3 align="left">Socials:</h3>
