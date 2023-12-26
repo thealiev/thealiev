@@ -1,7 +1,7 @@
 
 <p align="left"></p>
 
-- 📫 How to reach me <p align="left">**tarqymuhammadal@gmail.com, https://t.me/theal1eev**</p>
+- 📫 How to reach me <p align="left">**tarqymuhammadal@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,6 +10,3 @@
 <a href="https://www.leetcode.com/https://leetcode.com/thealiev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/thealiev/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thealiev&show_icons=true&locale=en&layout=compact" alt="thealiev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thealiev&show_icons=true&locale=en" alt="thealiev" /></p>
