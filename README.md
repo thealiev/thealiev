@@ -2,11 +2,11 @@
 name: Salohiddin Tojiyev
 from: Uzbekistan, Tashkent
 job: SWE
-education: becholer's in "Najot Talim", CS @ISFT
+education: Becholer's in "Najot Talim", CS @ISFT
 
 fields-of-interests: Front-End Development
-currently_learning: Back-end Development
-hobbies: traveling, Learning Languages, Blogging
+currently-learning: Back-end Development
+hobbies: Traveling, Learning Languages, Blogging
 ```
 
 ## 📫 How to reach me: 
