@@ -1,6 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thealiev&label=Profile%20views&color=0e75b6&style=flat" alt="thealiev" /> </p>
 
-- 📫 How to reach me <p align="left">**tarqymuhammadal@gmail.com https://t.me/theal1eev**</p>
+<p align="left"></p>
+
+- 📫 How to reach me <p align="left">**tarqymuhammadal@gmail.com, https://t.me/theal1eev**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
