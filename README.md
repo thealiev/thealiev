@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thealiev&label=Profile%20views&color=0e75b6&style=flat" alt="thealiev" /> </p>
 
-- 💬about me: **name: Salohiddin Tojiyev from: Uzbekistan, Tashkent job: SWE education: B.A in @NajotTalim, CS @ISFT fields-of-interests: "Back-end Development", "Front-End Development" currently-learning: "Back-end Development" hobbies: "Traveling", "Learning Languages", "Blogging"**
-
-- 📫 How to reach me **tarqymuhammadal@gmail.com, @theal1eev**
+- 📫 How to reach me **tarqymuhammadal@gmail.com https://t.me/theal1eev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
