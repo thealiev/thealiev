@@ -1,11 +1,10 @@
 ```yaml
 name: Salohiddin Tojiyev
 from: Uzbekistan, Tashkent
-job: SWE
-education: Graduated from "Najot Talim course", CS @ISFT
+job: Frontend engineer
+education: Graduated from "Najot Talim course"
 
 fields-of-interests: Front-End Development
-currently-learning: Back-end Development
 hobbies: Traveling, Learning Languages, Blogging
 ```
 
